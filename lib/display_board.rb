@@ -11,6 +11,7 @@ def display_board(board)
   puts " #{display_board[6]} | #{display_board[7]} | #{display_board[8]} "
 
 end
+end
 
 board = ["O", "X", " ", " ", "X", " ", "X", "O", " "]
 
