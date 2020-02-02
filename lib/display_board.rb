@@ -11,4 +11,4 @@ def display_board(display_board)
 end
 
 
- display_board(board)
+ display_board (board)
