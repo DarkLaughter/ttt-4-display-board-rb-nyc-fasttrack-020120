@@ -14,4 +14,4 @@ end
 
 board1 = ["O", "X", " ", " ", "X", " ", "X", "O", " "]
 
-display_board(board1)
+display_board(board)
